@@ -1,4 +1,6 @@
 # rchileplaceoverlay
+Un gustazo estar con ustedes
+
 recursos
 
 overlayPlace.xcf - Es el archivo Gimp, para editarlo
