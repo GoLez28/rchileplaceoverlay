@@ -21,7 +21,7 @@ void setup () {
     }
   }
   //add the original template
-  osu = loadImage("dotted-place-template.png");
+  /*osu = loadImage("dotted-place-template.png");
   osu.loadPixels();
   for (int y = 1; y < out.height; y++) {
     for (int x = 1; x < out.width; x++) {
@@ -31,7 +31,7 @@ void setup () {
         out.pixels[x+y*out.width] = osc;
     }
   }
-  out.updatePixels();
+  out.updatePixels();*/
   //save
   out.save("overlayPost.png");
   exit();
