@@ -1,0 +1,31 @@
+{
+    "faction": "/r/chile",
+    "contact": "r/chile",
+    "notifications": "",
+    "templates": [
+        {
+            "name": "chile",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/515972447137431562/1132341824514691173/placeChile1.png"
+            ],
+            "x": 830,
+            "y": 962
+        }
+    ],
+    "whitelist": [
+		{
+            "name": "Balticos",
+            "url": "https://gist.githubusercontent.com/Sidges/e0e7158ec9ba82feeb19feea1f7f9997/raw/"
+        },
+		{
+            "name": "Brazil",
+            "url": "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/brasil.json"
+        },
+		{
+            "name": "Argentina",
+            "url": "https://rentry.co/ArgPlaceNew/raw"
+        }
+    ],
+    "blacklist": [
+    ]
+}
