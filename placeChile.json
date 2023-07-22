@@ -28,6 +28,10 @@
 		{
             "name": "VRChat",
             "url": "https://cdn.discordapp.com/attachments/515972447137431562/1132356967738908763/placeVRChat.json"
+        },
+		{
+            "name": "AirCaglar",
+            "url": "https://cdn.discordapp.com/attachments/515972447137431562/1132410423669432330/placeAirCaglar.json"
         }
     ],
     "blacklist": [
