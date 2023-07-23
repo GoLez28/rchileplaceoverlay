@@ -18,6 +18,14 @@
             ],
             "x": 0,
             "y": 89
+        },
+	{
+            "name": "bot chile",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/515972447137431562/1132769025101934644/placeChileTemplate3.png"
+            ],
+            "x": 1147,
+            "y": 1886
         }
     ],
     "whitelist": [
