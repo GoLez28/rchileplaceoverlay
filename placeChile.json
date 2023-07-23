@@ -52,6 +52,10 @@
 		{
             "name": "choco",
             "url": "https://cdn.discordapp.com/attachments/515972447137431562/1132759248242212934/placechoco.json"
+        },
+		{
+            "name": "different",
+            "url": "https://cdn.discordapp.com/attachments/515972447137431562/1132797045082693632/placedifferent.json"
         }
     ],
     "blacklist": [
