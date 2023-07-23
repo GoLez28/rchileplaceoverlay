@@ -40,6 +40,10 @@
 		{
             "name": "aaaa",
             "url": "https://cdn.discordapp.com/attachments/515972447137431562/1132733723553571016/placestream.json"
+        },
+		{
+            "name": "choco",
+            "url": "https://cdn.discordapp.com/attachments/515972447137431562/1132756726442115225/placechoco.json"
         }
     ],
     "blacklist": [
