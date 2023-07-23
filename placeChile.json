@@ -10,6 +10,14 @@
             ],
             "x": 798,
             "y": 1462
+        },
+	{
+            "name": "top chile",
+            "sources": [
+                "https://raw.githubusercontent.com/GoLez28/rchileplaceoverlay/main/placeChileTemplate2.png"
+            ],
+            "x": 0,
+            "y": 89
         }
     ],
     "whitelist": [
