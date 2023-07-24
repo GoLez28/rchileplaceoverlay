@@ -8,7 +8,7 @@
             "sources": [
                 "https://raw.githubusercontent.com/GoLez28/rchileplaceoverlay/main/placeChileTemplate.png"
             ],
-            "x": 798,
+            "x": 1298,
             "y": 1462
         },
 	{
@@ -16,7 +16,7 @@
             "sources": [
                 "https://raw.githubusercontent.com/GoLez28/rchileplaceoverlay/main/placeChileTemplate2.png"
             ],
-            "x": 0,
+            "x": 500,
             "y": 89
         },
 	{
@@ -24,7 +24,7 @@
             "sources": [
                 "https://raw.githubusercontent.com/GoLez28/rchileplaceoverlay/main/placeChileTemplate3.png"
             ],
-            "x": 1146,
+            "x": 1646,
             "y": 1885
         }
     ],
