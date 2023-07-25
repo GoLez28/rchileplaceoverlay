@@ -50,16 +50,16 @@
             "url": "https://cdn.discordapp.com/attachments/515972447137431562/1132733723553571016/placestream.json"
         },
 		{
-            "name": "choco",
-            "url": "https://cdn.discordapp.com/attachments/515972447137431562/1132759248242212934/placechoco.json"
-        },
-		{
             "name": "different",
             "url": "https://cdn.discordapp.com/attachments/515972447137431562/1132797693614366770/placedifferent.json"
         },
 		{
             "name": "Calendario Mexico",
             "url": "https://cdn.discordapp.com/attachments/515972447137431562/1133227133288853585/placecalendariomx.json"
+        },
+		{
+            "name": "Peru",
+            "url": "https://rentry.co/t3kei/raw"
         }
     ],
     "blacklist": [
