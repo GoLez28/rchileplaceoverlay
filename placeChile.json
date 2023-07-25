@@ -56,6 +56,10 @@
 		{
             "name": "different",
             "url": "https://cdn.discordapp.com/attachments/515972447137431562/1132797693614366770/placedifferent.json"
+        },
+		{
+            "name": "Calendario Mexico",
+            "url": "https://cdn.discordapp.com/attachments/515972447137431562/1133227133288853585/placecalendariomx.json"
         }
     ],
     "blacklist": [
