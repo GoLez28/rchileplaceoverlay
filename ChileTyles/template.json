@@ -5,10 +5,10 @@
         {
             "name": "Chile Flag",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1132916734232379452/1489033121478344794/chile1.png?ex=69cef1a9&is=69cda029&hm=ce281fdb03446591d32018ae39665d7e1a45182b50ee7270ce709b15c2fc7c57"
+                "https://raw.githubusercontent.com/GoLez28/rchileplaceoverlay/refs/heads/main/ChileTyles/chile1.png"
             ],
-            "x": 110,
-            "y": 210
+            "x": 109,
+            "y": 209
         }
     ],
     "whitelist": [
