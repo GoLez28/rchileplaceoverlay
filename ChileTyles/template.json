@@ -1,0 +1,28 @@
+{
+    "faction": "Chile",
+    "contact": "None",
+    "templates": [
+        {
+            "name": "Chile Flag",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1132916734232379452/1489033121478344794/chile1.png?ex=69cef1a9&is=69cda029&hm=ce281fdb03446591d32018ae39665d7e1a45182b50ee7270ce709b15c2fc7c57"
+            ],
+            "x": 110,
+            "y": 210
+        }
+    ],
+    "whitelist": [
+        {
+            "name": "Neurosama",
+            "url": "https://gist.githubusercontent.com/Lorgex/312d26e5410c3445bf1ad58942ce59f6/raw/NeurocordTemplate.json"
+        },
+        {
+            "name":"touhou",
+            "url":"https://raw.githubusercontent.com/Kanapepene/touhou_tyles26/refs/heads/main/touhou_tyles26.json"
+        },
+        {
+            "name":"osu",
+            "url":"https://gist.githubusercontent.com/LittleEndu/1575c98edc17df10693808a65607e76e/raw/osutyles.json"
+        }
+    ]
+}
